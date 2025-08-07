@@ -1,0 +1,10 @@
+vosk
+pyaudio
+pyttsx3
+piper-tts
+llama-cpp-python
+pyautogui
+torch
+transformers
+sounddevice
+numpy
